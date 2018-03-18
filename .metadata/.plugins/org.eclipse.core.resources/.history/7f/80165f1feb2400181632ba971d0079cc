@@ -1,0 +1,8 @@
+
+public class Robot {
+	public static void main(String[] args) {
+		Person aibo = new Person();
+		aibo.name="AIBO";
+		System.out.println(aib.name);
+	}
+}

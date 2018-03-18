@@ -1,0 +1,8 @@
+
+public abstract class SmartPhone implements Mp3Player,NewFunction {
+	public void call() {
+		// TODO 自動生成されたメソッド・スタブ
+		
+	}
+	
+}

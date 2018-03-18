@@ -1,0 +1,22 @@
+
+public class Person2 {
+	String name;
+	int birthday;
+	int manpukudo;
+	
+	Person2(){
+		this.name = "かえ";
+		this.birthday =19900408;
+		this.manpukudo = 80;
+	}
+	
+	Person3(){
+		this.name = "勇気";
+		this.birthday =19900408;
+		this.manpukudo = 80;
+	}
+	
+	void eat() {
+		this.manpukudo += 60;
+	}
+}

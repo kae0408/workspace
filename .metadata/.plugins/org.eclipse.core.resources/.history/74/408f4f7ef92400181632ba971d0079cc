@@ -1,0 +1,18 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+	 Person2 Person2;
+	 Person2 Person1 = new Person2("引数３", 19900408, 100);
+	 Person2 Person2 = new Person2("引数２", 19900408);
+	 Person2 Person3 = new Person2("引数１");
+	 Person2 Person4 = new Person2();
+	 
+	 System.out.println("名前" + Person2.name);
+	 System.out.println("生年月日" + Person2.birthday);
+	 System.out.println("満腹度" + Person2.manpukudo);
+	 
+	}
+
+}

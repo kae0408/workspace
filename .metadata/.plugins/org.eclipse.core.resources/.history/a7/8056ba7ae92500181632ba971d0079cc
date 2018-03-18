@@ -1,0 +1,18 @@
+
+public class SmartPhone implements Mp3Player{
+	public void play() {
+		 System.out.println("さらにイイ曲で再生する");
+	 }
+	
+	 public void call() {
+		 System.out.println("電話する");
+	 }
+	 
+	 public void mail() {
+		 System.out.println("メールする");
+	 }
+	 
+	 public void photo() {
+		 System.out.println("写真たくさんとるよ");
+	 }
+}

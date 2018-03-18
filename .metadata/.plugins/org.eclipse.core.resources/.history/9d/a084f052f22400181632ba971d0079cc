@@ -1,0 +1,11 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		Person2 person = new Person2("ノブオ" + 19900408, 0);
+		Person2 person2 = new Person2("かえ" + 19900408, 0);
+		
+	}
+
+}

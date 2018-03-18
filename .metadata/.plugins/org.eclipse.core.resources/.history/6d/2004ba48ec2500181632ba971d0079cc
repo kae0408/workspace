@@ -1,0 +1,13 @@
+
+public interface Mp3Player,NewFunction {
+ public abstract void next();
+ 
+ public abstract void back();
+ 
+ public abstract void play();
+
+}
+
+
+
+

@@ -1,0 +1,14 @@
+
+public class SmartPhone extend Mp3Player{
+	 public void call() {
+		 System.out.println("電話する");
+	 }
+	 
+	 public void mail() {
+		 System.out.println("メールする");
+	 }
+	 
+	 public void photo() {
+		 System.out.println("写真とるする");
+	 }
+}

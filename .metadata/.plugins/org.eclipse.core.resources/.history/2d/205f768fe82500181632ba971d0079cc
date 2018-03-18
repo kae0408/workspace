@@ -1,0 +1,16 @@
+
+public class Android {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		SmartPhon iphone = new SmartPhone();
+		iphone.play();
+		iphone.next();
+		iphone.back();
+		iphone.call();
+		iphone.mail();
+		iphone.photo();
+
+	}
+
+}

@@ -1,0 +1,22 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		
+		Person2 person = new Person2("ノブオ",19900408);
+		Person2 person2 = new Person2("かえ" , 19900408);
+		
+		System.out.println("名前；" + person.name);
+		System.out.println("生年月日；" + person.birthday);
+		System.out.println("満腹度；" + person.manpukudo);
+		System.out.println("");
+		
+		System.out.println("名前；" + person2.name);
+		System.out.println("生年月日；" + person2.birthday);
+		System.out.println("満腹度；" + person2.manpukudo);
+		System.out.println("");
+		
+	}
+
+}

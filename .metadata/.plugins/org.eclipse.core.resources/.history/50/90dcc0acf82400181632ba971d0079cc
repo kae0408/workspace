@@ -1,0 +1,11 @@
+
+public class Person2 {
+	String name;
+	int birthday;
+	int manpukudo;
+	Person2(){
+		this.name = "ノブオ";
+		this.birthday = 19900408;
+		this.manpukudo = 50;
+	}
+}

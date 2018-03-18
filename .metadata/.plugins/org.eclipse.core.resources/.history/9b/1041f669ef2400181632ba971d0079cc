@@ -1,0 +1,12 @@
+
+public class Person2 {
+	String name;
+	int birthday;
+	int manpukudo;
+	
+	Person2(){}
+	
+	void eat() {
+		this.manpukudo += 60;
+	}
+}
